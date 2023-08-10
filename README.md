@@ -24,8 +24,12 @@ To get started with this course, follow these steps:
 ## Additional Resources
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html): Official documentation for React.
-- 🌐 [React Router Documentation](https://reactrouter.com/): Official documentation for React Router.
-- ⚛️ [Redux Documentation](https://redux.js.org/): Official documentation for Redux.
+
+### Official Documentation
+
+| [React Router](https://reactrouter.com/) | [Redux](https://redux.js.org/) |
+|:---:|:---:|
+| [![React Router](https://github.com/hilalsalarzi/icons/blob/main/react-router.svg)](https://reactrouter.com/) | [![Redux](https://github.com/hilalsalarzi/icons/blob/main/redux.svg)](https://redux.js.org/) |
 
 ...
 
@@ -39,9 +43,11 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 You can connect with me and follow my updates on social media:
 
-- (https://twitter.com/hilalsalarzi)
-- (https://github.com/hilalsalarzi)
-- (https://linkedin.com/in/hilalsalarzi)
+### Social Media
+
+| [Twitter](https://twitter.com/hilalsalarzi) | [GitHub](https://github.com/hilalsalarzi) | [LinkedIn](https://linkedin.com/in/hilalsalarzi) |
+|:---:|:---:|:---:|
+| [![Twitter](https://github.com/hilalsalarzi/icons/blob/main/twitter.svg)](https://twitter.com/hilalsalarzi) | [![GitHub](https://github.com/hilalsalarzi/icons/blob/main/github.svg)](https://github.com/hilalsalarzi) | [LinkedIn](https://linkedin.com/in/hilalsalarzi) |
 
 ...
 
