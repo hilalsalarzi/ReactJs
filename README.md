@@ -24,8 +24,8 @@ To get started with this course, follow these steps:
 ## Additional Resources
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html): Official documentation for React.
-- [![React Router](https://fontawesome.com/icons/router?style=brands)](https://reactrouter.com/): Official documentation for React Router.
-- [![Redux](https://fontawesome.com/icons/redux?style=brands)](https://redux.js.org/): Official documentation for Redux.
+- 🌐 [React Router Documentation](https://reactrouter.com/): Official documentation for React Router.
+- ⚛️ [Redux Documentation](https://redux.js.org/): Official documentation for Redux.
 
 ...
 
