@@ -39,9 +39,9 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 You can connect with me and follow my updates on social media:
 
-- [![Twitter](https://fontawesome.com/icons/twitter-square?style=brands)](https://twitter.com/hilalsalarzi)
-- [![GitHub](https://fontawesome.com/icons/github-square?style=brands)](https://github.com/hilalsalarzi)
-- [LinkedIn](https://linkedin.com/in/hilalsalarzi)
+- (https://twitter.com/hilalsalarzi)
+- (https://github.com/hilalsalarzi)
+- (https://linkedin.com/in/hilalsalarzi)
 
 ...
 
