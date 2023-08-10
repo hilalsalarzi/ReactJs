@@ -24,8 +24,8 @@ To get started with this course, follow these steps:
 ## Additional Resources
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html): Official documentation for React.
-- [React Router Documentation](https://reactrouter.com/): Official documentation for React Router.
-- [Redux Documentation](https://redux.js.org/): Official documentation for Redux.
+- [![React Router](https://fontawesome.com/icons/router?style=brands)](https://reactrouter.com/): Official documentation for React Router.
+- [![Redux](https://fontawesome.com/icons/redux?style=brands)](https://redux.js.org/): Official documentation for Redux.
 
 ...
 
@@ -39,8 +39,8 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 You can connect with me and follow my updates on social media:
 
-- [Twitter](https://twitter.com/hilalsalarzi)
-- [GitHub](https://github.com/hilalsalarzi)
+- [![Twitter](https://fontawesome.com/icons/twitter-square?style=brands)](https://twitter.com/hilalsalarzi)
+- [![GitHub](https://fontawesome.com/icons/github-square?style=brands)](https://github.com/hilalsalarzi)
 - [LinkedIn](https://linkedin.com/in/hilalsalarzi)
 
 ...
